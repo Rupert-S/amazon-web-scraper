@@ -1,4 +1,4 @@
-# amazon-web-scraper
+# ebay-web-scraper
 
 This project is a web scraper designed to extract product information from eBay listings. The scraper specifically targets eBay listings for car shocks and gathers details such as the item title, condition, price, placement, included items, seller name, and seller rating. The collected data is saved into a CSV file for further analysis.
 
